@@ -1,0 +1,64 @@
+body{
+    background-image: url('../../img/fondo-welcome4.jpg ');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.card{
+    width: 50%;
+    height: 50%;
+    background-color: rgb(133, 193, 233);
+}
+.btnn{
+    height: 150px;
+    width: 70%;
+    display: flex;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    background-color: rgb(165, 105, 189);
+    border: none; 
+    border-radius: 20px;
+    color: white; 
+    text-align: center; 
+    line-height: 50px; 
+    cursor: pointer; 
+    transition: background-color 0.3s;
+}
+.btnn:hover{
+    background-color: #2980b9;
+}
+.texto{
+    color: rgb(136, 78, 160);
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    text-align: center;
+    margin: 2pt;
+}
+.form-control{
+    background-color: rgb(136, 78, 160);
+    transition: background-color 0.5s;
+}
+.form-control:hover{
+    background-color: #2980b9
+}
+.form-control:focus{
+    background-color: #2980b9;
+}
+.form-label{
+    color: rgb(136, 78, 160);
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    text-align: center;
+    margin: 2pt;
+}
+.linkVolver{
+    color: rgb(136, 78, 160);
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    text-align: center;
+    text-decoration: none;
+    margin: 2pt;
+}

@@ -1,0 +1,40 @@
+body{
+    background-image: url('./img/fondo-welcome4.jpg');
+    background-size: cover;
+    background-position: center;
+}
+#welcome{
+    width: 50%;
+    height: 50%;
+    background-color: rgb(133, 193, 233);
+}
+.btnn{
+    width: 50%;
+    height: 203px;
+    border-radius: 50%;
+    background-color: rgb(165, 105, 189);
+    border: none; 
+    color: white; 
+    text-align: center; 
+    line-height: 50px; 
+    cursor: pointer; 
+    transition: background-color 0.3s;
+}
+.btnn:hover{
+    background-color: #2980b9;
+}
+.titulo{
+    color: rgb(136, 78, 160);
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    text-align: center;
+    margin: 2pt;    
+}
+.card-subtitle{
+    color: rgb(136, 78, 160);
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    text-align: center;
+    margin: 2pt;  
+}
