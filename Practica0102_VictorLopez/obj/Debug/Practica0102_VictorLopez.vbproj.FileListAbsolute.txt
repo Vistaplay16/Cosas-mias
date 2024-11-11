@@ -1,0 +1,15 @@
+D:\Users\m\source\repos\Practica0102_VictorLopez\bin\Debug\Practica0102_VictorLopez.exe.config
+D:\Users\m\source\repos\Practica0102_VictorLopez\bin\Debug\Practica0102_VictorLopez.exe
+D:\Users\m\source\repos\Practica0102_VictorLopez\bin\Debug\Practica0102_VictorLopez.pdb
+D:\Users\m\source\repos\Practica0102_VictorLopez\bin\Debug\Practica0102_VictorLopez.xml
+D:\Users\m\source\repos\Practica0102_VictorLopez\obj\Debug\Practica0102_VictorLopez.vbproj.AssemblyReference.cache
+D:\Users\m\source\repos\Practica0102_VictorLopez\obj\Debug\Practica0102_VictorLopez.FormArbol.resources
+D:\Users\m\source\repos\Practica0102_VictorLopez\obj\Debug\Practica0102_VictorLopez.Resources.resources
+D:\Users\m\source\repos\Practica0102_VictorLopez\obj\Debug\Practica0102_VictorLopez.vbproj.GenerateResource.cache
+D:\Users\m\source\repos\Practica0102_VictorLopez\obj\Debug\Practica0102_VictorLopez.vbproj.CoreCompileInputs.cache
+D:\Users\m\source\repos\Practica0102_VictorLopez\obj\Debug\Practica0102_VictorLopez.exe
+D:\Users\m\source\repos\Practica0102_VictorLopez\obj\Debug\Practica0102_VictorLopez.xml
+D:\Users\m\source\repos\Practica0102_VictorLopez\obj\Debug\Practica0102_VictorLopez.pdb
+D:\Users\m\source\repos\Practica0102_VictorLopez\obj\Debug\Practica0102_VictorLopez.Form1.resources
+D:\Users\m\source\repos\Practica0102_VictorLopez\obj\Debug\Practica0102_VictorLopez.FormAcerca.resources
+D:\Users\m\source\repos\Practica0102_VictorLopez\obj\Debug\Practica0102_VictorLopez.FormUsuario.resources
